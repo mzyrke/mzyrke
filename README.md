@@ -46,6 +46,7 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
 - [TFM-FEA](https://github.com/mzyrke/TFM_FEA): MATLAB-ANSYS library for calculating the forces that cells exert on their env. using Traction Force Microscopy (TFM)
     - [results](https://maziyark.github.io/assets/mk_papers_4_1.jpg) | [Paper 01](https://link.springer.com/article/10.1007/s10439-021-02881-1)
 
+---
 
 ### <a name="P_MLDS"></a> Machine Learning / Data Science
 
@@ -56,11 +57,12 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
 <!-- - [**Image Classification w/ Tensorflow**]() -->
 - [**DLAP**](https://github.com/mzyrke/DLAP): Deep Learning for Accident Prediction
 
+---
 
 ### <a name="P_P"></a> Personal Projects
 - [OSTORLAAB (ASTROLABE)](https://github.com/mzyrke/Ostorlaab): SMART SCIENTIFIC LITERATURE REVIEW:
     - A set of Java libraries to facilitate the scientific literature review process. By connecting to the APIs of multiple publishers, the code runs queries to generate a short list of the desired papers (from 5K initial search results to 100 papers). The code is tuned toward biological sciences as of now.
-- 
+
 
 <!--
 **mzyrke/mzyrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
