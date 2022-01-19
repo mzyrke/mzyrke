@@ -19,7 +19,14 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
 
 ### <a name="P_BME"></a> Biomedical/Mechanical Eng. Projects
 <!-- ## <a name="P_BME_C"></a> Current projects) -->
-- Toolbox for motion analysis, strain calculation, and resolution enhancement in Cardiac Cine MRI scans: [repo]() | [Paper 01](https://link.springer.com/chapter/10.1007/978-3-030-78710-3_27)
+- [CMA](https://github.com/mzyrke/CMA): Cardiac Mechanics Analyzer (CMA) is a set of python & MATLAB libraries for image-based analysis of cardiac contractile function through motion analysis, strain calculation, and resolution enhancement: 
+    - Manuscripts: [Paper 01](https://link.springer.com/chapter/10.1007/978-3-030-78710-3_27)
+    - Motion of mouse left [ventriclular](https://en.wikipedia.org/wiki/Ventricle_(heart)) [endocardium](https://en.wikipedia.org/wiki/Endocardium) estimated by analyzing short-axis cine-MRI scans:
+<p align="center" style="text-align: center;">   
+    <img src="https://github.com/mzyrke/CMA/blob/main/assets/Mouse_Left_Ventricle_Endocardium.gif" alt="Mouse Left Ventricle." class="center" style="width: 25vw; min-width: 70px;"> 
+</p> 
+
+
 - Toolbox for STE (2D ultrasound) in MATLAB [Abstract 01](https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.14317)  |  [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:YOwf2qJgpHMC)
 
 <!--  ## <a name="P_BME_P"></a> Previous projects -->
@@ -27,7 +34,8 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
 - APhy: The first 3D fully coupled Agent Based - Finite Element Analysis (AB-FEA) modeling framework to study progression of cardiovascular diseases and growth and remodeling in blood vessels 
     - Packages/software used: Java, REPAST Simphony, ANSYS (APDL), and MATLAB
     - Received the [American Heart Association Predoctoral Fellowship](https://professional.heart.org/idc/groups/ahamah-public/@wcm/@sop/@rsch/documents/downloadable/ucm_433355.pdf) + ~ $2 million funding from [NIH](https://projectreporter.nih.gov/project_info_details.cfm?aid=9618585&icde=46505989&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=) & AHA
-    - [Project page](https://maziyark.github.io/InSilico_TEVG/)  |  [Paper 01](https://www.liebertpub.com/doi/full/10.1089/ten.tec.2019.0103) | [Paper 02](https://link.springer.com/article/10.1007/s10237-017-0946-y)  | [Abstract 01](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:3fE2CSJIrl8C) | [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:kNdYIx-mwKoC) | [Abstract 03](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:Zph67rFs4hoC) | [Abstract 04](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:ULOm3_A8WrAC)
+    - [Project page](https://maziyark.github.io/InSilico_TEVG/) 
+    - Manuscripts: [Paper 01](https://www.liebertpub.com/doi/full/10.1089/ten.tec.2019.0103) | [Paper 02](https://link.springer.com/article/10.1007/s10237-017-0946-y)  | [Abstract 01](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:3fE2CSJIrl8C) | [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:kNdYIx-mwKoC) | [Abstract 03](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:Zph67rFs4hoC) | [Abstract 04](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:ULOm3_A8WrAC)
  
 <p align="center" style="text-align: center;">   
     <img src="https://maziyark.github.io/assets/mk_papers_3_1.jpg" alt="Schema of Modeling Framework." class="center" style="width: 30vw; min-width: 100px;"> 
@@ -41,10 +49,12 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
 
 - QCT-based FEA of human femur fracture
     - Packages/software used: ANSYS (APDL & Workbench), Maple, MATLAB
-    - [Graphical abstract](https://maziyark.github.io/assets/mk_papers_1_1.jpg)  |  [Paper 01](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:u5HHmVD_uO8C) | [Paper 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:8k81kl-MbHgC)
+    - [Graphical abstract](https://maziyark.github.io/assets/mk_papers_1_1.jpg)  
+    - Manuscripts: [Paper 01](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:u5HHmVD_uO8C) | [Paper 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:8k81kl-MbHgC)
 
 - [TFM-FEA](https://github.com/mzyrke/TFM_FEA): MATLAB-ANSYS library for calculating the forces that cells exert on their env. using Traction Force Microscopy (TFM)
-    - [results](https://maziyark.github.io/assets/mk_papers_4_1.jpg) | [Paper 01](https://link.springer.com/article/10.1007/s10439-021-02881-1)
+    - [sample results](https://maziyark.github.io/assets/mk_papers_4_1.jpg)
+    - Manuscripts: [Paper 01](https://link.springer.com/article/10.1007/s10439-021-02881-1)
 
 ---
 
