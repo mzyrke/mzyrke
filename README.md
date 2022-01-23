@@ -21,8 +21,9 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
 <!-- ## <a name="P_BME_C"></a> Current projects) -->
 - [CMA](https://github.com/mzyrke/CMA): Cardiac Mechanics Analyzer (CMA) is a set of python & MATLAB libraries for image-based analysis of cardiac contractile function through motion analysis, strain calculation, and resolution enhancement: 
     - Manuscripts: [Paper 01](https://link.springer.com/chapter/10.1007/978-3-030-78710-3_27)
-    - Motion of mouse left [ventriclular](https://en.wikipedia.org/wiki/Ventricle_(heart)) [endocardium](https://en.wikipedia.org/wiki/Endocardium) estimated by analyzing short-axis cine-MRI scans:
-<p align="center" style="text-align: center;">   
+
+<p align="center" style="text-align: center;"> 
+    Motion of mouse left <a href="https://en.wikipedia.org/wiki/Ventricle_(heart)">ventriclular</a> <a href="https://en.wikipedia.org/wiki/Endocardium">endocardium</a> estimated by analyzing short-axis cine-MRI scans
     <img src="https://github.com/mzyrke/CMA/blob/main/assets/Mouse_Left_Ventricle_Endocardium_01.gif" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
     <img src="https://github.com/mzyrke/CMA/blob/main/assets/Mouse_Left_Ventricle_Endocardium_02.gif" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
 </p> 
