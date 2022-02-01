@@ -24,8 +24,8 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
 
 <p align="center" style="text-align: center;"> 
     Motion of mouse left <a href="https://en.wikipedia.org/wiki/Ventricle_(heart)">ventriclular</a> <a href="https://en.wikipedia.org/wiki/Endocardium">endocardium</a> estimated by analyzing short-axis cine-MRI scans
-    <img src="https://github.com/mzyrke/CMA/blob/main/assets/Mouse_Left_Ventricle_Endocardium_01.gif" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
-    <img src="https://github.com/mzyrke/CMA/blob/main/assets/Mouse_Left_Ventricle_Endocardium_02.gif" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
+    <img src="https://raw.githubusercontent.com/mzyrke/CMA/main/assets/Mouse_Left_Ventricle_Endocardium_01.gif?token=GHSAT0AAAAAABQDDEPYGM7YUMGAEOJSVTRWYQCVWWA" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
+    <img src="https://raw.githubusercontent.com/mzyrke/CMA/main/assets/Mouse_Left_Ventricle_Endocardium_02.gif?token=GHSAT0AAAAAABQDDEPZ4DXO5JFI3ADWPYLGYQCVXMA" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
 </p> 
 
 
