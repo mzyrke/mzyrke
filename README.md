@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-I'm postdoctoral fellow working at C2BL (Texas A&M), where our goal is to predict initiation and progression of cardiovascular diseases using patient specific computational models.
 
 I'm a mechanical/biomedical engineer by training with a passion for computational mechanobiology and AI. 
 
@@ -23,11 +22,10 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
     - Manuscripts: [Paper 01](https://link.springer.com/chapter/10.1007/978-3-030-78710-3_27)
 
 <p align="center" style="text-align: center;"> 
-    Motion of mouse left <a href="https://en.wikipedia.org/wiki/Ventricle_(heart)">ventriclular</a> <a href="https://en.wikipedia.org/wiki/Endocardium">endocardium</a> estimated by analyzing short-axis cine-MRI scans
+    Motion of mouse left <a href="https://en.wikipedia.org/wiki/Ventricle_(heart)">ventriclular</a> <a href="https://en.wikipedia.org/wiki/Endocardium">endocardium</a> estimated by deformable image registration of cine-MRI scans
     <img src="https://raw.githubusercontent.com/mzyrke/CMA/main/assets/Mouse_Left_Ventricle_Endocardium_03.gif?token=GHSAT0AAAAAABQDDEPZ4GMMWVX36QZVATKYYQGFC4A" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
     <img src="https://raw.githubusercontent.com/mzyrke/CMA/main/assets/Mouse_Left_Ventricle_Endocardium_04.gif?token=GHSAT0AAAAAABQDDEPYX3QDBIMSZVPJOIYSYQGFGRQ" alt="Mouse Left Ventricle." class="center" style="width: 20vw; min-width: 50px;"> 
 </p> 
-
 
 - Toolbox for STE (2D ultrasound) in MATLAB [Abstract 01](https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.14317)  |  [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:YOwf2qJgpHMC)
 
