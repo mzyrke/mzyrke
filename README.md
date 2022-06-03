@@ -23,9 +23,11 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
 
 <p align="center" style="text-align: center;"> 
     Motion of mouse left <a href="https://en.wikipedia.org/wiki/Ventricle_(heart)">ventriclular</a> <a href="https://en.wikipedia.org/wiki/Endocardium">endocardium</a> estimated by deformable image registration of cine-MRI scans
+</p> 
+<p align="center" style="text-align: center;"> 
     <img src="https://raw.githubusercontent.com/mzyrke/mzyrke/main/assets/Mouse_Left_Ventricle_Endocardium_03.gif" alt="Mouse Left Ventricle." class="center"  width="400"> 
     <img src="https://raw.githubusercontent.com/mzyrke/mzyrke/main/assets/Mouse_Left_Ventricle_Endocardium_04.gif" alt="Mouse Left Ventricle." class="center" width="400"> 
-    <img src="https://github.com/mzyrke/mzyrke/blob/main/assets/Mouse_Left_Ventricle_Strain.gif" alt="LV Strains." class="center" width ="800"> 
+    <img src="https://github.com/mzyrke/mzyrke/blob/main/assets/Mouse_Left_Ventricle_Strain.gif" alt="LV Strains." class="center" width ="900"> 
 </p> 
 
 - Toolbox for STE (2D ultrasound) in MATLAB [Abstract 01](https://www.ahajournals.org/doi/abs/10.1161/circ.144.suppl_1.14317)  |  [Abstract 02](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=59WprqwAAAAJ&citation_for_view=59WprqwAAAAJ:YOwf2qJgpHMC)
