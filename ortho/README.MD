@@ -62,7 +62,7 @@
 
 ---
 
-## <a name="P_BB"></a>Murine Femural Fracture Device
+## <a name="P_BB"></a>Murine Femoral Fracture Device
 ### __Graphical Abstract__
 
 <p align="center" style="text-align: center;">   
