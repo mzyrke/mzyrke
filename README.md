@@ -9,6 +9,7 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
 
 **Projects by category:**
 - [Biomedical/Mechanical engineering](#P_BME)
+    - [Orthopedic Biomechanics](https://github.com/mzyrke/mzyrke/tree/main/ortho)
     
 - [Machine Learning / Data Science](#P_MLDS)
 
