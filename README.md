@@ -60,8 +60,11 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
 </p>
 
 - [TFM-FEA](https://github.com/mzyrke/TFM_FEA): MATLAB-ANSYS library for calculating the forces that cells exert on their env. using Traction Force Microscopy (TFM)
-    - [sample results](https://maziyark.github.io/assets/mk_papers_4_1.jpg)
     - Manuscripts: [Paper 01](https://link.springer.com/article/10.1007/s10439-021-02881-1)
+<p align="center" style="text-align: center;">   
+    <img src="https://maziyark.github.io/assets/mk_papers_4_1.jpg" alt="sample result." class="center" style="width: 25vw; min-width: 100px;"> 
+</p>
+    
 
 ---
 
