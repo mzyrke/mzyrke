@@ -4,7 +4,7 @@
 I'm a mechanical/biomedical engineer by training with a passion for computational mechanobiology and AI. 
 
 - 💬 Biomechanics/Mechanobiology, computational modeling, python, Java, MATLAB, FEA, ANSYS, [REPAST Simphony or Agent-Based Modeling](https://github.com/Repast/repast.simphony). 
-- 📫 [HackerRank](https://www.hackerrank.com/mzyrke) | [LinkedIn](https://www.linkedin.com/in/maziyark/) | [Google Scholar](https://scholar.google.com/citations?user=59WprqwAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Maziyar_Keshavarzian)  
+- 📫 [HackerRank](https://www.hackerrank.com/mzyrke) | [LinkedIn](https://www.linkedin.com/in/maziyark/)
 
 
 **Projects by category:**
