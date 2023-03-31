@@ -70,22 +70,6 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
 
 ---
 
-### <a name="P_MLDS"></a> Machine Learning / Data Science
-
-- [**New York Social Graph**](https://github.com/mzyrke/SocialGraph_NY): A look into the who's who of NY social elite by analyzing the data on the [NY Social Diary](https://web.archive.org/web/20150913112557/http://www.newyorksocialdiary.com/). Scraped ~100k photo captions from the Party Pictures Archive of the NYSD, extracted ~110k celerity names, and built a social graph to identify: (a) the most popular celebrities (based on the number of connections and Google’s PageRank algorithm)  and (b) best friends. (Used NLTK, spacy, requests, beautiful soup)
-- [**Venue Popularity Predictor**](https://github.com/mzyrke/venue_popularity): Used Yelp's dataset for venue popularities and successfully predicted the venue popularities for new locations based on city, category, location, and other attributes such as attire, ambience, etc. The ML model is developed using sklearn, an ensemble regressor combines 4 models mentioned above. In each model the hyperparameters were optimized using gridsearchCV.
-- [**Review rating predictor (NLP)**](): Used Yelp's review datasets and predicted the review rating from its text through sentiment analysis. The ML model is developed using sklearn and spacy libraries.
-<!-- - [**Time series prediction of temperature**]() -->
-<!-- - [**Image Classification w/ Tensorflow**]() -->
-- [**DLAP**](https://github.com/mzyrke/DLAP): Deep Learning for Accident Prediction
-
----
-
-### <a name="P_P"></a> Personal Projects
-- [OSTORLAAB (ASTROLABE)](https://github.com/mzyrke/Ostorlaab): SMART SCIENTIFIC LITERATURE REVIEW:
-    - A set of Java libraries to facilitate the scientific literature review process. By connecting to the APIs of multiple publishers, the code runs queries to generate a short list of the desired papers (from 5K initial search results to 100 papers). The code is tuned toward biological sciences as of now.
-
-
 <!--
 **mzyrke/mzyrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
