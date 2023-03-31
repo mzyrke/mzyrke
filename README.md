@@ -11,9 +11,7 @@ I'm a mechanical/biomedical engineer by training with a passion for computationa
 - [Biomedical/Mechanical engineering](https://github.com/mzyrke#-biomedicalmechanical-eng-projects)
     - [Orthopedic Biomechanics](https://github.com/mzyrke/mzyrke/tree/main/ortho)
     
-- [Machine Learning / Data Science](https://github.com/mzyrke#-machine-learning--data-science)
 
-- [Personal Projects](https://github.com/mzyrke#-personal-projects)
 
 ---
 
